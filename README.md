@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi 👋, I'm pikoseq9
-
 ### A student and frontend developer at BlueSparrow from Poland
 
 </div>
@@ -83,19 +81,7 @@ JS.
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<!-- GitHub Stats Card: GitHub username required -->
-
-</div>
-
 ---
-
-<div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **Thank you for visiting my profile! 😊**
 
