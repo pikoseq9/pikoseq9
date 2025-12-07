@@ -83,8 +83,6 @@ JS.
 
 ---
 
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+**Thank you for visiting my profile.**
 
 </div>
