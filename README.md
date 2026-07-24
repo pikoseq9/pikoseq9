@@ -30,4 +30,4 @@ Full-stack developer working across **C#/.NET** and **TypeScript** — from prod
 
 - 🎓 CS student @ Silesian University of Technology
 - 🔭 Deepening distributed systems & auth (OIDC server implementation in my backend platform)
-- 📫 Reach me: **weklicz.patryk@gmail.com** · [LinkedIn]([https://www.linkedin.com/in/twoj-profil](https://www.linkedin.com/in/patryk-weklicz-300925363))
+- 📫 Reach me: **weklicz.patryk@gmail.com** · [LinkedIn](https://www.linkedin.com/in/patryk-weklicz-300925363)
